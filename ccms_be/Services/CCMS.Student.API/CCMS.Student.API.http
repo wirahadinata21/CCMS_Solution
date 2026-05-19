@@ -1,0 +1,6 @@
+@CCMS.Student.API_HostAddress = http://localhost:5198
+
+GET {{CCMS.Student.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
