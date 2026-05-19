@@ -8,7 +8,7 @@ Child Care Management Solution
 
 ## 🏗️ System & Application Architecture
 
-The **Toffel Care (CCMS)** project is designed with a highly secure, enterprise-grade cloud infrastructure and a decoupled component architecture to handle multi-tenancy and high availability.
+The **CCMS** project is designed with a highly secure, enterprise-grade cloud infrastructure and a decoupled component architecture to handle multi-tenancy and high availability.
 
 ### 1. High-Level Application Modules
 *<img width="658" height="564" alt="image" src="https://github.com/user-attachments/assets/0bbdc677-6100-453b-aee7-98244e82adb0" />
